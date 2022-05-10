@@ -11,7 +11,7 @@ One of my top favorite features of Oracle’s data science service is the Enviro
 There are 42 pre-configured Conda environments available in Oracle Data Science Service currently.
 
 ***Image: Environment Explorer***
-<imgsrc="https://github.com/nicktoscano/tutorials/blob/main/assets/Launch_a_Data_Science%20_Environment_on_Oracle_Cloud_Infrastructure/image2.png" width="400" height="300">
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/Launch_a_Data_Science%20_Environment_on_Oracle_Cloud_Infrastructure/image2.png" width="400" height="300">
 
 One of the immediate benefits of a managed data science service for any organization performing data science is the ability to launch new environments quickly.  Oracle Cloud Infrastructure provides a quick interface to launch a new service in minutes.  This article demonstrates a fast workflow to launch a data science service on Oracle's cloud.
 
