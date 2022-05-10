@@ -1,9 +1,9 @@
 ## Train a Custom Computer Vision Model Using OCI Vision Service
 
 ### Introduction:
-On Feb 7,2022 Oracle announced a new service for computer vision models: href="https://blogs.oracle.com/ai-and-datascience/post/announcing-oci-vision-service">Oracle Cloud Infrastructure (OCI) Vision</a>.  This service provides pretrained image analysis models and the ability to create custom computer vision models.  The OCI vision service enables analysts to quickly conduct image classification, image detection, and optical character recognition on image datasets.  Currently, the service supports JPEG and PNG.   
+On Feb 7,2022 Oracle announced a new service for computer vision models: <a href="https://blogs.oracle.com/ai-and-datascience/post/announcing-oci-vision-service">Oracle Cloud Infrastructure (OCI) Vision</a>.  This service provides pretrained image analysis models and the ability to create custom computer vision models.  The OCI vision service enables analysts to quickly conduct image classification, image detection, and optical character recognition on image datasets.  Currently, the service supports JPEG and PNG.   
 
-Here is a 5-step process for training a custom object detection model.  The data used for this example was retrieved from href="https://www.kaggle.com/datasets/rhammell/planesnet">Kaggle.com</a>.  Here are some samples of this dataset to show an example of what this data looks like:
+Here is a 5-step process for training a custom object detection model.  The data used for this example was retrieved from <a href="https://www.kaggle.com/datasets/rhammell/planesnet">Kaggle.com</a>.  Here are some samples of this dataset to show an example of what this data looks like:
 
 <img src="https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1b.png" width="600" height="200">
 
