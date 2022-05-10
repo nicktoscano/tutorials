@@ -1,6 +1,8 @@
 Image Assets:
 
-<image1b.png> [Samples of planesnet dataset provided through Kaggle]![image]https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1b.png)
+<image1b.png> [Samples of planesnet dataset provided through Kaggle]
+
+![image]https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1b.png)
 
 <image1.png> [Launch OCI Vision service from cloud console]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1.png)
 
@@ -35,5 +37,6 @@ Image Assets:
 <image6b.png> [Testing a single image for accuracy]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image6b.png)
 
 <image6c.png> [JSON response]
+
 ![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image6c.png)
 
