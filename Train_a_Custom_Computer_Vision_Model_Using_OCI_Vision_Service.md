@@ -5,7 +5,7 @@ On Feb 7,2022 Oracle announced a new service for computer vision models: href="h
 
 Here is a 5-step process for training a custom object detection model.  The data used for this example was retrieved from href="https://www.kaggle.com/datasets/rhammell/planesnet">Kaggle.com</a>.  Here are some samples of this dataset to show an example of what this data looks like:
 
-<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1b.png" width="400" height="300">
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1b.png" width="200" height="600">
 
 ***Image: Samples of planesnet dataset provided through Kaggle***
 
