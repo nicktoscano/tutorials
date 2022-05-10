@@ -132,4 +132,4 @@ In this tutorial you rapidly create an object detection model.  Setting up the s
 
 You can find the presentation for this here: <a href="https://github.com/nicktoscano/presentations/blob/main/building_custom_vision_model.pdf">Github</a>
 
-
+Article for this here: <a href="https://medium.com/@ntoscano01/train-a-custom-computer-vision-model-using-oci-vision-service-1f08915ec7e1">Medium</a>
