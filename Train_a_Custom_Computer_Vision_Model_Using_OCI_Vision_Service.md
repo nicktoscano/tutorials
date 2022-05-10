@@ -1,9 +1,11 @@
 ## Train a Custom Computer Vision Model Using OCI Vision Service
 
 ### Introduction:
-On Feb 7,2022 Oracle announced a new service for computer vision models: Oracle Cloud Infrastructure (OCI) Vision.  This service provides pretrained image analysis models and the ability to create custom computer vision models.  The OCI vision service enables analysts to quickly conduct image classification, image detection, and optical character recognition on image datasets.  Currently, the service supports JPEG and PNG.   
+On Feb 7,2022 Oracle announced a new service for computer vision models: href="https://blogs.oracle.com/ai-and-datascience/post/announcing-oci-vision-service">Oracle Cloud Infrastructure (OCI) Vision</a>.  This service provides pretrained image analysis models and the ability to create custom computer vision models.  The OCI vision service enables analysts to quickly conduct image classification, image detection, and optical character recognition on image datasets.  Currently, the service supports JPEG and PNG.   
 
-Here is a 5-step process for training a custom object detection model.  The data used for this example was retrieved from Kaggle.com.  Here are some samples of this dataset to show an example of what this data looks like:
+Here is a 5-step process for training a custom object detection model.  The data used for this example was retrieved from href="https://www.kaggle.com/datasets/rhammell/planesnet">Kaggle.com</a>.  Here are some samples of this dataset to show an example of what this data looks like:
+
+https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image1.png
 
 <image1.png> [Samples of planesnet dataset provided through Kaggle]
 
@@ -96,6 +98,6 @@ Here is an example of the JSON response showing the x and y coordinates for the 
 ### Conclusion:
 In this tutorial you rapidly create an object detection model.  Setting up the services from scratch and completing this from start to finish should take about 1.5 to 2 hours.  This is based on selecting the lowest duration for model training.  This includes using the following services: Object Storage, Data Labeling, and Vision.  
 
-You can find the presentation for this here: <a href="https://github.com/nicktoscano/presentations/blob/main/building_custom_vision_model.pdf ">Github</a>
+You can find the presentation for this here: <a href="https://github.com/nicktoscano/presentations/blob/main/building_custom_vision_model.pdf">Github</a>
 
 
