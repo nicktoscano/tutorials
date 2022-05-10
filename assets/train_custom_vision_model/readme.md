@@ -8,7 +8,6 @@ Image Assets:
 
 <image2a.png> [Create bucket]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image2a.png)
 
-
 <image2b.png> [Upload data]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image2b.png)
 
 <image2.png> [Objects created in bucket]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image2.png)
@@ -35,5 +34,6 @@ Image Assets:
 
 <image6b.png> [Testing a single image for accuracy]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image6b.png)
 
-<image6c.png> [JSON response]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image6c.png)
+<image6c.png> [JSON response]
+![image](https://github.com/nicktoscano/tutorials/blob/main/assets/train_custom_vision_model/image6c.png)
 
