@@ -173,4 +173,4 @@ Update the Data Science Service. You should update the service when Oracle pushe
   
 Don’t Terminate unless you mean to do it. Terminating kills the notebook session and blows away the block storage. Anything stored on block storage will go away permanently. I recommend using object storage or an autonomous database for managing data. Use Github to control your code.
   
-You can find the presentation for this here: Github
+You can find the presentation for this here: <a href="url">Github</a>
