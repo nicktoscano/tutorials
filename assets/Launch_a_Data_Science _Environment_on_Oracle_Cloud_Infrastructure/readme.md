@@ -1,4 +1,5 @@
 Image Assets:
+
 <image2.png> [Environment Explorer]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/Launch_a_Data_Science%20_Environment_on_Oracle_Cloud_Infrastructure/image2.png)
 
 <image3a.png> [Launch Resource Manager] ![image](https://github.com/nicktoscano/tutorials/blob/main/assets/Launch_a_Data_Science%20_Environment_on_Oracle_Cloud_Infrastructure/image3a.png)
