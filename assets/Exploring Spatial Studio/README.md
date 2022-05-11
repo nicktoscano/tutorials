@@ -1,4 +1,4 @@
-
+Image Assets:
 <image1.png> [Connect to a data source]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/Exploring%20Spatial%20Studio/image1.png)
 
 <image2.png> [Create a dataset]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/Exploring%20Spatial%20Studio/image2.png)
