@@ -72,4 +72,6 @@ Here is a final example that shows the GTD events that fall within a 20-mile aro
 ### Conclusion:
 I hope this brief example is helpful. I have skipped over many things to make this a short article. I want to wrap back to the beginning and stress that good data management is critical for large data projects. In this example, I showed how infrastructure data could be stored in an autonomous database and then visualized for spatial analysis.  
 
+You can find the presentation for this here: <a href="https://github.com/nicktoscano/presentations/blob/main/proximity_using_spatial_studio_ci.pdf">Github</a> 
+
 
