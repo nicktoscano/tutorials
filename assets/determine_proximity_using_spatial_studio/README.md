@@ -14,7 +14,7 @@ Image Assets:
 
 <image3a.png> [Filter Data on Non-Spatial Rules]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/determine_proximity_using_spatial_studio/image3a.png)
 
-<image4a.png> [Select Within Distance Tool]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/determine_proximity_using_spatial_studio/image4apng)
+<image4a.png> [Select Within Distance Tool]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/determine_proximity_using_spatial_studio/image4a.png)
 
 <image4.png> [Within Distance Tool]![image](https://github.com/nicktoscano/tutorials/blob/main/assets/determine_proximity_using_spatial_studio/image4.png)
 
