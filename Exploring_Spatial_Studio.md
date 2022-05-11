@@ -114,7 +114,7 @@ Here is a screen shot of the final layer.  This takes seconds to run.  An analys
 <image19.png> [GTD in the US]
 
 ### Add a Buffer of a Specified Distance
-A commonly used spatial tool if buffering. Buffering is used to determine the area covered within a specific location. For example, you may buffer school locations to visualize the areas within 1000′ feet of a school. I am adding an Airports layer pulled from <a href="https://hifld-geoplatform.opendata.arcgis.com/ ">HIFLD Open Data</a>, that we will buffer to see if any GTD data is within proximity. We can do the buffer directly from the dataset menu and add the result to the map to save time.
+A commonly used spatial tool if buffering. Buffering is used to determine the area covered within a specific location. For example, you may buffer school locations to visualize the areas within 1000′ feet of a school. I am adding an Airports layer pulled from <a href="https://hifld-geoplatform.opendata.arcgis.com/">HIFLD Open Data</a>, that we will buffer to see if any GTD data is within proximity. We can do the buffer directly from the dataset menu and add the result to the map to save time.
 
 Select the buffering tool from the spatial analysis operations menu. Add a 20-mile buffer around all airports. This airports layer has individual 940 features to buffer.  
 
@@ -135,7 +135,7 @@ This is not too helpful. Let’s remove the layer from the map. Next, we will ru
 
 ***Image: GTD data within 20 miles of airports***
 
-###Conclusion:
+### Conclusion:
 Spatial Studio is a  tool for exploring geographic data in Oracle Database. It gives analysts a fast and simple workflow to explore spatial attributes. Many other spatial tools require pulling the data out of the secure and performant environment of the database to visualize and perform spatial queries and analysis. Spatial Studio works with data without removing it from the database. Keeping it in the database makes the analyst's job easier.
 
-
+Article for this here: <a href="https://medium.com/@ntoscano01/exploring-oracle-spatial-studio-289348c91d87">Medium</a>
