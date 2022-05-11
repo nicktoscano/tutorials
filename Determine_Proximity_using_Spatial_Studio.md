@@ -94,4 +94,4 @@ Spatial Studio provides a fast and simple method for understanding the proximity
 
 You can find the presentation for this here: <a href="https://github.com/nicktoscano/presentations/blob/main/proximity_using_spatial_studio_ci.pdf">Github</a>
 
-
+Article for this here: <a href="https://medium.com/@ntoscano01/determine-proximity-using-spatial-studio-4d1055302a56">Medium</a>
