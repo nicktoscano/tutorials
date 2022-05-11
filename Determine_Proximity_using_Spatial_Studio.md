@@ -3,6 +3,8 @@
 ### Introduction:
 Determining proximity of people, places, and things is an important analytic step.  Determining whether threats are near critical infrastructure is an important information to understand for decision making.  There are many examples of things that can be considered threats to critical infrastructure.  Threats could include weather, overhead surveillance, natural disasters, protests, foreign military aggression, gangs or terrorism, cyber-attacks, and many more examples.  Analysts should be able to determine proximity quickly for decisions makers.  Oracle Spatial Studio provides a rapid method for determining proximity quickly.
 
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/Launch_a_Data_Science%20_Environment_on_Oracle_Cloud_Infrastructure/image4.png" width="400" height="300">
+
 <image1.png> [Proximity Map]
 
 Data used in this tutorial:
