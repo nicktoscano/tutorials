@@ -12,41 +12,57 @@ Getting to the resources you need quickly is necessary for any data scientist or
 
 I recommend using Service Links to customize your console. This is like pinning apps to your desktop toolbar.
 
-<image1.png> [Customize your console]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image1.png" width="400" height="300">
+
+***Image: Customize your console***
 
 The console page contains a wealth of information and resources. Quickstarts provides ready-to-go learning resources and tools. For example, you can deploy a data science service with Oracle Red Bull examples, a Kibana dashboard, an autonomous database, and even R Studio from Quickstarts.
 
-<image2.png> [Quickstarts]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image2.png" width="400" height="300">
+
+***Image: Quickstarts***
 
 Launch Resources provides more ready-to-go services. For example, you can launch a stack or start object storage from here. This section is handy for creating a data science service or moving data to the cloud.
 
-<image3.png> [Launch Resources]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image3.png" width="400" height="300">
+
+***Image: Launch Resources***
 
 Finally, the Start Exploring section offers help documentation, free training, and other boring stuff like managing bills.
 
-<image4.png> [Start Exploring]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image4.png" width="400" height="300">
+
+***Image: Start Exploring***
 
 ### Hamburger Menu
 I want to show you where to access machine learning resources in the cloud console. Right now, don’t worry about the infrastructure to make all this run. That stuff deploys quickly and easily through OCI. You can use a stack to automate that process anyways.
 
 Clicking on the hamburger menu in the upper left-hand corner will produce a more detailed collection of resources. Here you can pin your commonly used resources to a quick access menu.
 
-<image5.png> [Hamburger Menu]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image5.png" width="400" height="300">
+
+***Image: Hamburger Menu***
 
 ### Analytics & AI
 Scroll down and select the Analytics & AI menu.  This menu contains the core data science resources.  This includes data labeling, data science services, big data services, and AI services.  This also includes the data catalog, which I recommend everyone utilize.
 
-<image6.png> [Analytics & AI]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image6.png" width="400" height="300">
+
+***Image: Analytics & AI***
 
 ### Oracle Database
 The Oracle Database menu includes autonomous database options for a data warehouse or transaction processing. Oracle provides a data lake, as well. These are found under Analytics & AI and Big Data Services.
 
-<image7.png> [Oracle Database]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image7.png" width="400" height="300">
+
+***Image: Oracle Database***
 
 ### Storage
 With object storage, you can organize and manage all your data. Once in storage, the data is read into a data catalog for discovery. In addition, Oracle Data Science, Oracle Machine Learning, AI Services, and Data Labeling all work with Object storage. This resource is very central to your workflow.
 
-<image8.png> [Storage]
+<img src="https://github.com/nicktoscano/tutorials/blob/main/assets/A%20Quick%20Tour%20of%20Oracle%20Cloud%20Infrastructure%20for%20Data%20Scientists/image8.png" width="400" height="300">
+
+***Image: Storage***
 
 ### Conclusion:
 I hope this provides you with an introduction to the cloud console, what resources exist for data science and machine learning, and where to locate them.
