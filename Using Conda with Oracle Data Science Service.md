@@ -1,4 +1,4 @@
-Using Conda with Oracle Data Science Service
+## Using Conda with Oracle Data Science Service
 
 Managing conda environments is easy with Oracle Cloud Infrastructure Data Science Service. Let me give you an overview.
 
